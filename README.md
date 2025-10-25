@@ -1,5 +1,5 @@
 # tcp-ros2-sensor
-# EyeROV ROS2 Sensor Node - TCP HEx protocol
+# EyeROV ROS2 Sensor Node - TCP Hex protocol
 
 
 ## Overview
