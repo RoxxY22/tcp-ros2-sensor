@@ -3,7 +3,7 @@
 
 
 ## Overview
-This RPS2 Python node communicates with a sensor over TCP port 2000, where the sensor acts as the  TCP Server.
+This ROS2 Python node communicates with a sensor over TCP port 2000, where the sensor acts as the  TCP Server.
 
 It implements the **hex-encoded ASCII protocol** as specified:
 - Commands: `#` start, 2-char ID, payload (even hex chars), `<CR><LF>`
