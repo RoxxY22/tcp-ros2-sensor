@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/sensor_node/sensor_node.egg-info
+writing ../../build/sensor_node/sensor_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/sensor_node/sensor_node.egg-info/dependency_links.txt
+writing entry points to ../../build/sensor_node/sensor_node.egg-info/entry_points.txt
+writing requirements to ../../build/sensor_node/sensor_node.egg-info/requires.txt
+writing top-level names to ../../build/sensor_node/sensor_node.egg-info/top_level.txt
+writing manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+reading manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/roxyy/tcp-ros2-sensor/build/sensor_node/build
+creating /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib
+creating /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node
+copying sensor_node/__init__.py -> /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node
+running install
+running install_lib
+creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node
+copying /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node/__init__.py -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node
+byte-compiling /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index
+creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index/resource_index
+creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index/resource_index/packages
+copying resource/sensor_node -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index/resource_index/packages
+copying package.xml -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/sensor_node
+running install_egg_info
+Copying ../../build/sensor_node/sensor_node.egg-info to /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/roxyy/tcp-ros2-sensor/build/sensor_node/install.log'

@@ -1,0 +1,33 @@
+[0.513s] Invoking command in '/home/roxyy/tcp-ros2-sensor/src/sensor_node': PYTHONPATH=/home/roxyy/tcp-ros2-sensor/build/sensor_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_node build --build-base /home/roxyy/tcp-ros2-sensor/build/sensor_node/build install --record /home/roxyy/tcp-ros2-sensor/build/sensor_node/install.log --single-version-externally-managed install_data
+[0.675s] running egg_info
+[0.676s] creating ../../build/sensor_node/sensor_node.egg-info
+[0.676s] writing ../../build/sensor_node/sensor_node.egg-info/PKG-INFO
+[0.676s] writing dependency_links to ../../build/sensor_node/sensor_node.egg-info/dependency_links.txt
+[0.676s] writing entry points to ../../build/sensor_node/sensor_node.egg-info/entry_points.txt
+[0.676s] writing requirements to ../../build/sensor_node/sensor_node.egg-info/requires.txt
+[0.676s] writing top-level names to ../../build/sensor_node/sensor_node.egg-info/top_level.txt
+[0.676s] writing manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+[0.677s] reading manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+[0.678s] writing manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+[0.678s] running build
+[0.678s] running build_py
+[0.678s] creating /home/roxyy/tcp-ros2-sensor/build/sensor_node/build
+[0.678s] creating /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib
+[0.678s] creating /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node
+[0.678s] copying sensor_node/__init__.py -> /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node
+[0.678s] running install
+[0.679s] running install_lib
+[0.679s] creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node
+[0.679s] copying /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node/__init__.py -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node
+[0.688s] byte-compiling /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node/__init__.py to __init__.cpython-310.pyc
+[0.688s] running install_data
+[0.688s] creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index
+[0.688s] creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index/resource_index
+[0.688s] creating /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index/resource_index/packages
+[0.688s] copying resource/sensor_node -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/ament_index/resource_index/packages
+[0.688s] copying package.xml -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/share/sensor_node
+[0.688s] running install_egg_info
+[0.690s] Copying ../../build/sensor_node/sensor_node.egg-info to /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node-0.0.0-py3.10.egg-info
+[0.690s] running install_scripts
+[0.704s] writing list of installed files to '/home/roxyy/tcp-ros2-sensor/build/sensor_node/install.log'
+[0.722s] Invoked command in '/home/roxyy/tcp-ros2-sensor/src/sensor_node' returned '0': PYTHONPATH=/home/roxyy/tcp-ros2-sensor/build/sensor_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_node build --build-base /home/roxyy/tcp-ros2-sensor/build/sensor_node/build install --record /home/roxyy/tcp-ros2-sensor/build/sensor_node/install.log --single-version-externally-managed install_data

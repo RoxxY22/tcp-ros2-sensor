@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/sensor_node/sensor_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/sensor_node/sensor_node.egg-info/dependency_links.txt
+writing entry points to ../../build/sensor_node/sensor_node.egg-info/entry_points.txt
+writing requirements to ../../build/sensor_node/sensor_node.egg-info/requires.txt
+writing top-level names to ../../build/sensor_node/sensor_node.egg-info/top_level.txt
+reading manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/sensor_node/sensor_node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying sensor_node/sensor_node.py -> /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node
+running install
+running install_lib
+copying /home/roxyy/tcp-ros2-sensor/build/sensor_node/build/lib/sensor_node/sensor_node.py -> /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node
+byte-compiling /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node/sensor_node.py to sensor_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/sensor_node/sensor_node.egg-info to /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/python3.10/site-packages/sensor_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing sensor_node script to /home/roxyy/tcp-ros2-sensor/install/sensor_node/lib/sensor_node
+writing list of installed files to '/home/roxyy/tcp-ros2-sensor/build/sensor_node/install.log'
